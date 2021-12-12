@@ -1,4 +1,4 @@
-{% data variables.product.prodname_cli %} includes {% data variables.product.prodname_dotcom %} features such as:
+O {% data variables.product.prodname_cli %} inclui features do {% data variables.product.prodname_dotcom %} como:
 
 - Visualizar, criar, clonar e bifurcar repositórios
 - Crie, feche, edite e visualize problemas e pull requests
